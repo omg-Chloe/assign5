@@ -1,0 +1,28 @@
+/* 
+	A C++ program to be corrected 
+*/
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+	int first, second;
+	cout>> "Enter the first number ";
+	cout>>endl;
+
+	cin>> first;
+
+	cout>> "Enter the second number ";
+	cout>> endl;
+	cin>> second;
+
+
+	cout>> "The output is ";
+	cout>> (first + second) ;
+	cout>>endl;
+
+return 0;
+}
+
